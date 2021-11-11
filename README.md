@@ -1,4 +1,4 @@
-# API-weather-Automation
+# API-Weather-Automation
 
 This API weather automation project are created using Javascript and Sublime Text 3 as Text Editor. We will navigate to https://www.weatherbit.io/api/swaggerui/weather-api-v2#!/ and automate below APIs:
 - GET /current?lat={lat}&amp;lon={lon} for values {lat} as 40.730610 and {lon} as -73.935242
