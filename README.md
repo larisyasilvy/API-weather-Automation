@@ -13,7 +13,7 @@ The purpose of API Testing is to check the functionality, reliability, performan
 ----
 
 # Libraries
-- Node JS v16.13.0. and NPM
+- Node JS v16.13.0. and npm
 - SuperTest
 - Mocha
 - Babel (ES6+)
